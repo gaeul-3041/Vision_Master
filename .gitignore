@@ -1,5 +1,6 @@
 image/
 result_json/
 xml/
+__pycache__/
 
 *.pt
