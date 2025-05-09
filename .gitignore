@@ -1,0 +1,5 @@
+image/
+result_json/
+xml/
+
+*.pt
