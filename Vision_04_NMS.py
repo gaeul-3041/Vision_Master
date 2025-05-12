@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import torch
 import matplotlib.pyplot as plt
 
-from utils import get_iou_mat
+from utils.iou import get_iou_mat
 
 img = Image.open("bus.jpg")
 model = YOLO("yolo11n.pt")
